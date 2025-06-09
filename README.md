@@ -16,7 +16,7 @@ This is a simple command-line game where you play against the computer. The rule
 
 1. Run the Python file:
    ```
-   python rock-paper-scissors.py
+   rock-paper-scissors.py
    ```
 2. Follow the on-screen instructions to pick your move.
 3. The game will display the winner and keep track of the score.
